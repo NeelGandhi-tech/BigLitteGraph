@@ -1,0 +1,19 @@
+class,weight,member_count,big_little_relationships
+Mu,1,0,0
+Nu,2,3,3
+Xi,3,2,2
+Omicron,4,4,5
+Pi,5,7,10
+Rho,6,4,6
+Sigma,7,3,6
+Tau,8,6,11
+Upsilon,9,9,13
+Phi,10,10,16
+Chi,11,9,11
+Psi,12,4,8
+Alpha Alpha,13,5,11
+Alpha Beta,14,6,11
+Alpha Gamma,15,4,5
+Alpha Delta,16,9,6
+Alpha Epsilon,17,10,10
+Alpha Zeta,18,13,13

@@ -1,0 +1,1753 @@
+{
+  "nodes": [
+    {
+      "name": "Aadi Agrawal",
+      "class": "Alpha Beta"
+    },
+    {
+      "name": "Aakash Ramachandran",
+      "class": "Sigma"
+    },
+    {
+      "name": "Aamir Hudda",
+      "class": "Chi"
+    },
+    {
+      "name": "Aaron Ratnavel",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Aayush Shah",
+      "class": "Alpha Gamma"
+    },
+    {
+      "name": "Abhinav Bellapu",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Abhinav Mukkamala",
+      "class": "Alpha Beta"
+    },
+    {
+      "name": "Abrar Karim",
+      "class": "Tau"
+    },
+    {
+      "name": "Adith Mohanty",
+      "class": "Alpha Delta"
+    },
+    {
+      "name": "Adithya Rao",
+      "class": "Upsilon"
+    },
+    {
+      "name": "Aditya Satyadeep",
+      "class": "Phi"
+    },
+    {
+      "name": "Advait Deoskar",
+      "class": "Tau"
+    },
+    {
+      "name": "Aman Thakur",
+      "class": "Omicron"
+    },
+    {
+      "name": "Anirudh Natarajan",
+      "class": "Phi"
+    },
+    {
+      "name": "Anish Chikkaswamy",
+      "class": "Phi"
+    },
+    {
+      "name": "Anitej Bharadwaj",
+      "class": "Chi"
+    },
+    {
+      "name": "Anmol Bal",
+      "class": "Rho"
+    },
+    {
+      "name": "Anthony Adly",
+      "class": "Chi"
+    },
+    {
+      "name": "Arjun Parmar",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Arjun Venkatesh",
+      "class": "Chi"
+    },
+    {
+      "name": "Arnav Jain",
+      "class": "Rho"
+    },
+    {
+      "name": "Arya Patel",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Aswinkarthik Rameshbabu",
+      "class": "Upsilon"
+    },
+    {
+      "name": "Atul Kamath",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Ayan Kawlekar",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Ayush Misra",
+      "class": "Upsilon"
+    },
+    {
+      "name": "Bartev Stepanian",
+      "class": "Alpha Delta"
+    },
+    {
+      "name": "Charith Myneni",
+      "class": "Alpha Alpha"
+    },
+    {
+      "name": "Chiraphat Techasiri",
+      "class": "Phi"
+    },
+    {
+      "name": "Dhanush Sunchu",
+      "class": "Psi"
+    },
+    {
+      "name": "Dhruv Vallurupalli",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Ekansh Vashisth",
+      "class": "Upsilon"
+    },
+    {
+      "name": "Ethan Lau",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Gowri Biju",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Ibrahim Saiger",
+      "class": "Alpha Beta"
+    },
+    {
+      "name": "Ishan Gurnani",
+      "class": "Pi"
+    },
+    {
+      "name": "Joshua Kurian",
+      "class": "Chi"
+    },
+    {
+      "name": "Joshua Thomas",
+      "class": "Alpha Delta"
+    },
+    {
+      "name": "Justin Flesher",
+      "class": "Upsilon"
+    },
+    {
+      "name": "Kabir Dua",
+      "class": "Alpha Delta"
+    },
+    {
+      "name": "Kanish",
+      "class": "Unknown"
+    },
+    {
+      "name": "Kanishk Vankayala",
+      "class": "Alpha Gamma"
+    },
+    {
+      "name": "Karan Bhakta",
+      "class": "Alpha Alpha"
+    },
+    {
+      "name": "Kshitij Shah",
+      "class": "Nu"
+    },
+    {
+      "name": "Kush Goswami",
+      "class": "Alpha Gamma"
+    },
+    {
+      "name": "Laiq Sorrell",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Liam Patel",
+      "class": "Tau"
+    },
+    {
+      "name": "Lucas Narine",
+      "class": "Sigma"
+    },
+    {
+      "name": "Luke Matsui",
+      "class": "Psi"
+    },
+    {
+      "name": "Mohith Ram Narendra Babu",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Neel Gandhi",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Neel Kandlikar",
+      "class": "Psi"
+    },
+    {
+      "name": "Neelesh Bokkisam",
+      "class": "Alpha Beta"
+    },
+    {
+      "name": "Neil Bhagat",
+      "class": "Nu"
+    },
+    {
+      "name": "Neil Kamath",
+      "class": "Alpha Beta"
+    },
+    {
+      "name": "Nidhish Tekkam",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Om Awate",
+      "class": "Alpha Alpha"
+    },
+    {
+      "name": "Param Shah",
+      "class": "Pi"
+    },
+    {
+      "name": "Parth Patel",
+      "class": "Pi"
+    },
+    {
+      "name": "Pranav Iyer",
+      "class": "Phi"
+    },
+    {
+      "name": "Pranav Ramachandra",
+      "class": "Phi"
+    },
+    {
+      "name": "Pranav Sheokand",
+      "class": "Phi"
+    },
+    {
+      "name": "Praneel Pantula",
+      "class": "Alpha Delta"
+    },
+    {
+      "name": "Praneeth Kanna",
+      "class": "Phi"
+    },
+    {
+      "name": "Rahul Ravishankar",
+      "class": "Chi"
+    },
+    {
+      "name": "Rajan Parikh",
+      "class": "Pi"
+    },
+    {
+      "name": "Ram Palanati",
+      "class": "Omicron"
+    },
+    {
+      "name": "Reyansh Pallikonda",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Rish Bellakka",
+      "class": "Phi"
+    },
+    {
+      "name": "Rithik Jain",
+      "class": "Sigma"
+    },
+    {
+      "name": "Ritvik Gadhok",
+      "class": "Tau"
+    },
+    {
+      "name": "Ritvik Kandarkar",
+      "class": "Tau"
+    },
+    {
+      "name": "Rohan Nath",
+      "class": "Omicron"
+    },
+    {
+      "name": "Rohin Prashanth",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Rohun Malhotra",
+      "class": "Alpha Alpha"
+    },
+    {
+      "name": "Sashank Gadisetti",
+      "class": "Alpha Gamma"
+    },
+    {
+      "name": "Sehoon Byun",
+      "class": "Upsilon"
+    },
+    {
+      "name": "Sharukh Shaikh",
+      "class": "Pi"
+    },
+    {
+      "name": "Shivansh Kumar",
+      "class": "Pi"
+    },
+    {
+      "name": "Shivm Patel",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Shlok Gore",
+      "class": "Tau"
+    },
+    {
+      "name": "Sreekar Nagulapalli",
+      "class": "Alpha Beta"
+    },
+    {
+      "name": "Srikar Chikkala",
+      "class": "Xi"
+    },
+    {
+      "name": "Srithan Meeniga",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Sumesh Rawal",
+      "class": "Omicron"
+    },
+    {
+      "name": "Surya Rajan",
+      "class": "Chi"
+    },
+    {
+      "name": "Suryansh Kumar",
+      "class": "Rho"
+    },
+    {
+      "name": "Suvan Kapoor",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Tarkh Lingamallu",
+      "class": "Psi"
+    },
+    {
+      "name": "Tej Sathe",
+      "class": "Upsilon"
+    },
+    {
+      "name": "Vaarun Ramanathan",
+      "class": "Phi"
+    },
+    {
+      "name": "Varun Rao",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Venkat Kandukuri",
+      "class": "Alpha Alpha"
+    },
+    {
+      "name": "Vidur Maheshwari",
+      "class": "Pi"
+    },
+    {
+      "name": "Vikram Ravi",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Yash Agarwal",
+      "class": "Xi"
+    },
+    {
+      "name": "Yash Dave",
+      "class": "Nu"
+    },
+    {
+      "name": "Zahm Siyed",
+      "class": "Alpha Zeta"
+    },
+    {
+      "name": "Zaid Jiwani",
+      "class": "Rho"
+    },
+    {
+      "name": "Zain Passi",
+      "class": "Alpha Delta"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Sumesh Rawal",
+      "target": "Ritvik Kandarkar",
+      "weight": 4.0,
+      "type": "big-little",
+      "source_class": "Omicron",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Ritvik Kandarkar",
+      "target": "Om Awate",
+      "weight": 8.0,
+      "type": "big-little",
+      "source_class": "Tau",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Om Awate",
+      "target": "Kabir Dua",
+      "weight": 13.0,
+      "type": "big-little",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Rajan Parikh",
+      "target": "Rithik Jain",
+      "weight": 5.0,
+      "type": "big-little",
+      "source_class": "Pi",
+      "target_class": "Sigma"
+    },
+    {
+      "source": "Rithik Jain",
+      "target": "Anthony Adly",
+      "weight": 7.0,
+      "type": "big-little",
+      "source_class": "Sigma",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Anthony Adly",
+      "target": "Arya Patel",
+      "weight": 11.0,
+      "type": "big-little",
+      "source_class": "Chi",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Neil Bhagat",
+      "target": "Rohan Nath",
+      "weight": 2.0,
+      "type": "big-little",
+      "source_class": "Nu",
+      "target_class": "Omicron"
+    },
+    {
+      "source": "Rohan Nath",
+      "target": "Anmol Bal",
+      "weight": 4.0,
+      "type": "big-little",
+      "source_class": "Omicron",
+      "target_class": "Rho"
+    },
+    {
+      "source": "Anmol Bal",
+      "target": "Anish Chikkaswamy",
+      "weight": 6.0,
+      "type": "big-little",
+      "source_class": "Rho",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Anish Chikkaswamy",
+      "target": "Zain Passi",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Pranav Iyer",
+      "target": "Neel Kandlikar",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Psi"
+    },
+    {
+      "source": "Neel Kandlikar",
+      "target": "Praneel Pantula",
+      "weight": 12.0,
+      "type": "big-little",
+      "source_class": "Psi",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Srikar Chikkala",
+      "target": "Shivansh Kumar",
+      "weight": 3.0,
+      "type": "big-little",
+      "source_class": "Xi",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Shivansh Kumar",
+      "target": "Ritvik Gadhok",
+      "weight": 5.0,
+      "type": "big-little",
+      "source_class": "Pi",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Ritvik Gadhok",
+      "target": "Rohun Malhotra",
+      "weight": 8.0,
+      "type": "big-little",
+      "source_class": "Tau",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Rohun Malhotra",
+      "target": "Aaron Ratnavel",
+      "weight": 13.0,
+      "type": "big-little",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Ram Palanati",
+      "target": "Lucas Narine",
+      "weight": 4.0,
+      "type": "big-little",
+      "source_class": "Omicron",
+      "target_class": "Sigma"
+    },
+    {
+      "source": "Lucas Narine",
+      "target": "Shlok Gore",
+      "weight": 7.0,
+      "type": "big-little",
+      "source_class": "Sigma",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Shlok Gore",
+      "target": "Vaarun Ramanathan",
+      "weight": 8.0,
+      "type": "big-little",
+      "source_class": "Tau",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Vaarun Ramanathan",
+      "target": "Sreekar Nagulapalli",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Suryansh Kumar",
+      "target": "Anirudh Natarajan",
+      "weight": 6.0,
+      "type": "big-little",
+      "source_class": "Rho",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Anirudh Natarajan",
+      "target": "Neil Kamath",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Yash Agarwal",
+      "target": "Zaid Jiwani",
+      "weight": 3.0,
+      "type": "big-little",
+      "source_class": "Xi",
+      "target_class": "Rho"
+    },
+    {
+      "source": "Zaid Jiwani",
+      "target": "Ekansh Vashisth",
+      "weight": 6.0,
+      "type": "big-little",
+      "source_class": "Rho",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Ekansh Vashisth",
+      "target": "Chiraphat Techasiri",
+      "weight": 9.0,
+      "type": "big-little",
+      "source_class": "Upsilon",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Chiraphat Techasiri",
+      "target": "Luke Matsui",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Psi"
+    },
+    {
+      "source": "Joshua Kurian",
+      "target": "Joshua Thomas",
+      "weight": 11.0,
+      "type": "big-little",
+      "source_class": "Chi",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Pranav Sheokand",
+      "target": "Aadi Agrawal",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Anitej Bharadwaj",
+      "target": "Aayush Shah",
+      "weight": 11.0,
+      "type": "big-little",
+      "source_class": "Chi",
+      "target_class": "Alpha Gamma"
+    },
+    {
+      "source": "Parth Patel",
+      "target": "Adithya Rao",
+      "weight": 5.0,
+      "type": "big-little",
+      "source_class": "Pi",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Adithya Rao",
+      "target": "Dhanush Sunchu",
+      "weight": 9.0,
+      "type": "big-little",
+      "source_class": "Upsilon",
+      "target_class": "Psi"
+    },
+    {
+      "source": "Dhanush Sunchu",
+      "target": "Arjun Parmar",
+      "weight": 12.0,
+      "type": "big-little",
+      "source_class": "Psi",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Yash Dave",
+      "target": "Param Shah",
+      "weight": 2.0,
+      "type": "big-little",
+      "source_class": "Nu",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Param Shah",
+      "target": "Advait Deoskar",
+      "weight": 5.0,
+      "type": "big-little",
+      "source_class": "Pi",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Advait Deoskar",
+      "target": "Aditya Satyadeep",
+      "weight": 8.0,
+      "type": "big-little",
+      "source_class": "Tau",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Aditya Satyadeep",
+      "target": "Rahul Ravishankar",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Rahul Ravishankar",
+      "target": "Abhinav Bellapu",
+      "weight": 11.0,
+      "type": "big-little",
+      "source_class": "Chi",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Praneeth Kanna",
+      "target": "Surya Rajan",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Surya Rajan",
+      "target": "Neelesh Bokkisam",
+      "weight": 11.0,
+      "type": "big-little",
+      "source_class": "Chi",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Aswinkarthik Rameshbabu",
+      "target": "Arjun Venkatesh",
+      "weight": 9.0,
+      "type": "big-little",
+      "source_class": "Upsilon",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Arjun Venkatesh",
+      "target": "Abhinav Mukkamala",
+      "weight": 11.0,
+      "type": "big-little",
+      "source_class": "Chi",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Arnav Jain",
+      "target": "Aakash Ramachandran",
+      "weight": 6.0,
+      "type": "big-little",
+      "source_class": "Rho",
+      "target_class": "Sigma"
+    },
+    {
+      "source": "Aakash Ramachandran",
+      "target": "Ayush Misra",
+      "weight": 7.0,
+      "type": "big-little",
+      "source_class": "Sigma",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Ayush Misra",
+      "target": "Kush Goswami",
+      "weight": 9.0,
+      "type": "big-little",
+      "source_class": "Upsilon",
+      "target_class": "Alpha Gamma"
+    },
+    {
+      "source": "Liam Patel",
+      "target": "Sehoon Byun",
+      "weight": 8.0,
+      "type": "big-little",
+      "source_class": "Tau",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Sehoon Byun",
+      "target": "Ibrahim Saiger",
+      "weight": 9.0,
+      "type": "big-little",
+      "source_class": "Upsilon",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Ibrahim Saiger",
+      "target": "Bartev Stepanian",
+      "weight": 14.0,
+      "type": "big-little",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Rish Bellakka",
+      "target": "Venkat Kandukuri",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Aman Thakur",
+      "target": "Pranav Ramachandra",
+      "weight": 4.0,
+      "type": "big-little",
+      "source_class": "Omicron",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Pranav Ramachandra",
+      "target": "Karan Bhakta",
+      "weight": 10.0,
+      "type": "big-little",
+      "source_class": "Phi",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Karan Bhakta",
+      "target": "Suvan Kapoor",
+      "weight": 13.0,
+      "type": "big-little",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Sashank Gadisetti",
+      "target": "Adith Mohanty",
+      "weight": 15.0,
+      "type": "big-little",
+      "source_class": "Alpha Gamma",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Vidur Maheshwari",
+      "target": "Abrar Karim",
+      "weight": 5.0,
+      "type": "big-little",
+      "source_class": "Pi",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Abrar Karim",
+      "target": "Charith Myneni",
+      "weight": 8.0,
+      "type": "big-little",
+      "source_class": "Tau",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Charith Myneni",
+      "target": "Gowri Biju",
+      "weight": 13.0,
+      "type": "big-little",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Kshitij Shah",
+      "target": "Sharukh Shaikh",
+      "weight": 2.0,
+      "type": "big-little",
+      "source_class": "Nu",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Sharukh Shaikh",
+      "target": "Justin Flesher",
+      "weight": 5.0,
+      "type": "big-little",
+      "source_class": "Pi",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Justin Flesher",
+      "target": "Tarkh Lingamallu",
+      "weight": 9.0,
+      "type": "big-little",
+      "source_class": "Upsilon",
+      "target_class": "Psi"
+    },
+    {
+      "source": "Tarkh Lingamallu",
+      "target": "Vikram Ravi",
+      "weight": 12.0,
+      "type": "big-little",
+      "source_class": "Psi",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Ishan Gurnani",
+      "target": "Tej Sathe",
+      "weight": 5.0,
+      "type": "big-little",
+      "source_class": "Pi",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Tej Sathe",
+      "target": "Aamir Hudda",
+      "weight": 9.0,
+      "type": "big-little",
+      "source_class": "Upsilon",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Kanish",
+      "target": "Ayan Kawlekar",
+      "weight": NaN,
+      "type": "big-little",
+      "source_class": "Unknown",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Aayush Shah",
+      "target": "Srithan Meeniga",
+      "weight": 15.0,
+      "type": "big-little",
+      "source_class": "Alpha Gamma",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Dhanush Sunchu",
+      "target": "Zahm Siyed",
+      "weight": 12.0,
+      "type": "big-little",
+      "source_class": "Psi",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Gowri Biju",
+      "target": "Rohin Prashanth",
+      "weight": 17.0,
+      "type": "big-little",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Neelesh Bokkisam",
+      "target": "Nidhish Tekkam",
+      "weight": 14.0,
+      "type": "big-little",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Aaron Ratnavel",
+      "target": "Dhruv Vallurupalli",
+      "weight": 17.0,
+      "type": "big-little",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Om Awate",
+      "target": "Atul Kamath",
+      "weight": 13.0,
+      "type": "big-little",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Aadi Agrawal",
+      "target": "Varun Rao",
+      "weight": 14.0,
+      "type": "big-little",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Kanishk Vankayala",
+      "target": "Laiq Sorrell",
+      "weight": 15.0,
+      "type": "big-little",
+      "source_class": "Alpha Gamma",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Karan Bhakta",
+      "target": "Ethan Lau",
+      "weight": 13.0,
+      "type": "big-little",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Aadi Agrawal",
+      "target": "Mohith Ram Narendra Babu",
+      "weight": 14.0,
+      "type": "big-little",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Sreekar Nagulapalli",
+      "target": "Neel Gandhi",
+      "weight": 14.0,
+      "type": "big-little",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Shivm Patel",
+      "target": "Reyansh Pallikonda",
+      "weight": 17.0,
+      "type": "big-little",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Anmol Bal",
+      "target": "Arnav Jain",
+      "weight": 6,
+      "type": "classmate",
+      "source_class": "Rho",
+      "target_class": "Rho"
+    },
+    {
+      "source": "Arnav Jain",
+      "target": "Suryansh Kumar",
+      "weight": 6,
+      "type": "classmate",
+      "source_class": "Rho",
+      "target_class": "Rho"
+    },
+    {
+      "source": "Suryansh Kumar",
+      "target": "Zaid Jiwani",
+      "weight": 6,
+      "type": "classmate",
+      "source_class": "Rho",
+      "target_class": "Rho"
+    },
+    {
+      "source": "Aakash Ramachandran",
+      "target": "Lucas Narine",
+      "weight": 7,
+      "type": "classmate",
+      "source_class": "Sigma",
+      "target_class": "Sigma"
+    },
+    {
+      "source": "Lucas Narine",
+      "target": "Rithik Jain",
+      "weight": 7,
+      "type": "classmate",
+      "source_class": "Sigma",
+      "target_class": "Sigma"
+    },
+    {
+      "source": "Abrar Karim",
+      "target": "Advait Deoskar",
+      "weight": 8,
+      "type": "classmate",
+      "source_class": "Tau",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Advait Deoskar",
+      "target": "Liam Patel",
+      "weight": 8,
+      "type": "classmate",
+      "source_class": "Tau",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Liam Patel",
+      "target": "Ritvik Gadhok",
+      "weight": 8,
+      "type": "classmate",
+      "source_class": "Tau",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Ritvik Gadhok",
+      "target": "Ritvik Kandarkar",
+      "weight": 8,
+      "type": "classmate",
+      "source_class": "Tau",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Ritvik Kandarkar",
+      "target": "Shlok Gore",
+      "weight": 8,
+      "type": "classmate",
+      "source_class": "Tau",
+      "target_class": "Tau"
+    },
+    {
+      "source": "Adithya Rao",
+      "target": "Aswinkarthik Rameshbabu",
+      "weight": 9,
+      "type": "classmate",
+      "source_class": "Upsilon",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Aswinkarthik Rameshbabu",
+      "target": "Ayush Misra",
+      "weight": 9,
+      "type": "classmate",
+      "source_class": "Upsilon",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Ayush Misra",
+      "target": "Ekansh Vashishth",
+      "weight": 9,
+      "type": "classmate",
+      "source_class": "Upsilon",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Ekansh Vashishth",
+      "target": "Ekansh Vashisth",
+      "weight": 9,
+      "type": "classmate",
+      "source_class": "Upsilon",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Ekansh Vashisth",
+      "target": "Justin Flesher",
+      "weight": 9,
+      "type": "classmate",
+      "source_class": "Upsilon",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Justin Flesher",
+      "target": "Kevin Cheng",
+      "weight": 9,
+      "type": "classmate",
+      "source_class": "Upsilon",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Kevin Cheng",
+      "target": "Sehoon Byun",
+      "weight": 9,
+      "type": "classmate",
+      "source_class": "Upsilon",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Sehoon Byun",
+      "target": "Tej Sathe",
+      "weight": 9,
+      "type": "classmate",
+      "source_class": "Upsilon",
+      "target_class": "Upsilon"
+    },
+    {
+      "source": "Aditya Satyadeep",
+      "target": "Anirudh Natarajan",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Anirudh Natarajan",
+      "target": "Anish Chikkaswamy",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Anish Chikkaswamy",
+      "target": "Chiraphat Techasiri",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Chiraphat Techasiri",
+      "target": "Pranav Iyer",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Pranav Iyer",
+      "target": "Pranav Ramachandra",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Pranav Ramachandra",
+      "target": "Pranav Sheokand",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Pranav Sheokand",
+      "target": "Praneeth Kanna",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Praneeth Kanna",
+      "target": "Rish Bellakka",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Rish Bellakka",
+      "target": "Vaarun Ramanathan",
+      "weight": 10,
+      "type": "classmate",
+      "source_class": "Phi",
+      "target_class": "Phi"
+    },
+    {
+      "source": "Aamir Hudda",
+      "target": "Anitej Bharadwaj",
+      "weight": 11,
+      "type": "classmate",
+      "source_class": "Chi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Anitej Bharadwaj",
+      "target": "Anthony Adly",
+      "weight": 11,
+      "type": "classmate",
+      "source_class": "Chi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Anthony Adly",
+      "target": "Arjun Venkatesh",
+      "weight": 11,
+      "type": "classmate",
+      "source_class": "Chi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Arjun Venkatesh",
+      "target": "Joshua Kurian",
+      "weight": 11,
+      "type": "classmate",
+      "source_class": "Chi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Joshua Kurian",
+      "target": "Krish Patel",
+      "weight": 11,
+      "type": "classmate",
+      "source_class": "Chi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Krish Patel",
+      "target": "Nathan Lee",
+      "weight": 11,
+      "type": "classmate",
+      "source_class": "Chi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Nathan Lee",
+      "target": "Rahul Ravishankar",
+      "weight": 11,
+      "type": "classmate",
+      "source_class": "Chi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Rahul Ravishankar",
+      "target": "Surya Rajan",
+      "weight": 11,
+      "type": "classmate",
+      "source_class": "Chi",
+      "target_class": "Chi"
+    },
+    {
+      "source": "Dhanush Sunchu",
+      "target": "Luke Matsui",
+      "weight": 12,
+      "type": "classmate",
+      "source_class": "Psi",
+      "target_class": "Psi"
+    },
+    {
+      "source": "Luke Matsui",
+      "target": "Neel Kandlikar",
+      "weight": 12,
+      "type": "classmate",
+      "source_class": "Psi",
+      "target_class": "Psi"
+    },
+    {
+      "source": "Neel Kandlikar",
+      "target": "Tarkh Lingamallu",
+      "weight": 12,
+      "type": "classmate",
+      "source_class": "Psi",
+      "target_class": "Psi"
+    },
+    {
+      "source": "Charith Myneni",
+      "target": "Karan Bhakta",
+      "weight": 13,
+      "type": "classmate",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Karan Bhakta",
+      "target": "Om Awate",
+      "weight": 13,
+      "type": "classmate",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Om Awate",
+      "target": "Rohun Malhotra",
+      "weight": 13,
+      "type": "classmate",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Rohun Malhotra",
+      "target": "Venkat Kandukuri",
+      "weight": 13,
+      "type": "classmate",
+      "source_class": "Alpha Alpha",
+      "target_class": "Alpha Alpha"
+    },
+    {
+      "source": "Aadi Agrawal",
+      "target": "Abhinav Mukkamala",
+      "weight": 14,
+      "type": "classmate",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Abhinav Mukkamala",
+      "target": "Ibrahim Saiger",
+      "weight": 14,
+      "type": "classmate",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Ibrahim Saiger",
+      "target": "Neelesh Bokkisam",
+      "weight": 14,
+      "type": "classmate",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Neelesh Bokkisam",
+      "target": "Neil Kamath",
+      "weight": 14,
+      "type": "classmate",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Neil Kamath",
+      "target": "Sreekar Nagulapalli",
+      "weight": 14,
+      "type": "classmate",
+      "source_class": "Alpha Beta",
+      "target_class": "Alpha Beta"
+    },
+    {
+      "source": "Aayush Shah",
+      "target": "Kanishk Vankayala",
+      "weight": 15,
+      "type": "classmate",
+      "source_class": "Alpha Gamma",
+      "target_class": "Alpha Gamma"
+    },
+    {
+      "source": "Kanishk Vankayala",
+      "target": "Kush Goswami",
+      "weight": 15,
+      "type": "classmate",
+      "source_class": "Alpha Gamma",
+      "target_class": "Alpha Gamma"
+    },
+    {
+      "source": "Kush Goswami",
+      "target": "Sashank Gadisetti",
+      "weight": 15,
+      "type": "classmate",
+      "source_class": "Alpha Gamma",
+      "target_class": "Alpha Gamma"
+    },
+    {
+      "source": "Adith Mohanty",
+      "target": "Bartev Stepanian",
+      "weight": 16,
+      "type": "classmate",
+      "source_class": "Alpha Delta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Bartev Stepanian",
+      "target": "Joshua Thomas",
+      "weight": 16,
+      "type": "classmate",
+      "source_class": "Alpha Delta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Joshua Thomas",
+      "target": "Kabir Dua",
+      "weight": 16,
+      "type": "classmate",
+      "source_class": "Alpha Delta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Kabir Dua",
+      "target": "Praneel Pantula",
+      "weight": 16,
+      "type": "classmate",
+      "source_class": "Alpha Delta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Praneel Pantula",
+      "target": "Samhith Padala",
+      "weight": 16,
+      "type": "classmate",
+      "source_class": "Alpha Delta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Samhith Padala",
+      "target": "Sebastian Reddy",
+      "weight": 16,
+      "type": "classmate",
+      "source_class": "Alpha Delta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Sebastian Reddy",
+      "target": "Sid Kasi",
+      "weight": 16,
+      "type": "classmate",
+      "source_class": "Alpha Delta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Sid Kasi",
+      "target": "Zain Passi",
+      "weight": 16,
+      "type": "classmate",
+      "source_class": "Alpha Delta",
+      "target_class": "Alpha Delta"
+    },
+    {
+      "source": "Aaron Ratnavel",
+      "target": "Abhinav Bellapu",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Abhinav Bellapu",
+      "target": "Arjun Parmar",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Arjun Parmar",
+      "target": "Arya Patel",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Arya Patel",
+      "target": "Gowri Biju",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Gowri Biju",
+      "target": "Shivm Patel",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Shivm Patel",
+      "target": "Suvan Kapoor",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Suvan Kapoor",
+      "target": "Tanay Doppalapudi",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Tanay Doppalapudi",
+      "target": "Vikram Ravi",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Vikram Ravi",
+      "target": "Yadukrishna Raghu",
+      "weight": 17,
+      "type": "classmate",
+      "source_class": "Alpha Epsilon",
+      "target_class": "Alpha Epsilon"
+    },
+    {
+      "source": "Aman Thakur",
+      "target": "Ram Palanati",
+      "weight": 4,
+      "type": "classmate",
+      "source_class": "Omicron",
+      "target_class": "Omicron"
+    },
+    {
+      "source": "Ram Palanati",
+      "target": "Rohan Nath",
+      "weight": 4,
+      "type": "classmate",
+      "source_class": "Omicron",
+      "target_class": "Omicron"
+    },
+    {
+      "source": "Rohan Nath",
+      "target": "Sumesh Rawal",
+      "weight": 4,
+      "type": "classmate",
+      "source_class": "Omicron",
+      "target_class": "Omicron"
+    },
+    {
+      "source": "Ishan Gurnani",
+      "target": "Param Shah",
+      "weight": 5,
+      "type": "classmate",
+      "source_class": "Pi",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Param Shah",
+      "target": "Parth Patel",
+      "weight": 5,
+      "type": "classmate",
+      "source_class": "Pi",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Parth Patel",
+      "target": "Rajan Parikh",
+      "weight": 5,
+      "type": "classmate",
+      "source_class": "Pi",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Rajan Parikh",
+      "target": "Sharukh Shaikh",
+      "weight": 5,
+      "type": "classmate",
+      "source_class": "Pi",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Sharukh Shaikh",
+      "target": "Shivansh Kumar",
+      "weight": 5,
+      "type": "classmate",
+      "source_class": "Pi",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Shivansh Kumar",
+      "target": "Vidur Maheshwari",
+      "weight": 5,
+      "type": "classmate",
+      "source_class": "Pi",
+      "target_class": "Pi"
+    },
+    {
+      "source": "Kshitij Shah",
+      "target": "Neil Bhagat",
+      "weight": 2,
+      "type": "classmate",
+      "source_class": "Nu",
+      "target_class": "Nu"
+    },
+    {
+      "source": "Neil Bhagat",
+      "target": "Yash Dave",
+      "weight": 2,
+      "type": "classmate",
+      "source_class": "Nu",
+      "target_class": "Nu"
+    },
+    {
+      "source": "Srikar Chikkala",
+      "target": "Yash Agarwal",
+      "weight": 3,
+      "type": "classmate",
+      "source_class": "Xi",
+      "target_class": "Xi"
+    },
+    {
+      "source": "Atul Kamath",
+      "target": "Ayan Kawlekar",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Ayan Kawlekar",
+      "target": "Dhruv Vallurupalli",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Dhruv Vallurupalli",
+      "target": "Ethan Lau",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Ethan Lau",
+      "target": "Laiq Sorrell",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Laiq Sorrell",
+      "target": "Mohith Ram Narendra Babu",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Mohith Ram Narendra Babu",
+      "target": "Neel Gandhi",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Neel Gandhi",
+      "target": "Nidhish Tekkam",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Nidhish Tekkam",
+      "target": "Reyansh Pallikonda",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Reyansh Pallikonda",
+      "target": "Rohin Prashanth",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Rohin Prashanth",
+      "target": "Srithan Meeniga",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Srithan Meeniga",
+      "target": "Varun Rao",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    },
+    {
+      "source": "Varun Rao",
+      "target": "Zahm Siyed",
+      "weight": 18,
+      "type": "classmate",
+      "source_class": "Alpha Zeta",
+      "target_class": "Alpha Zeta"
+    }
+  ],
+  "classWeights": {
+    "Mu": 1,
+    "Nu": 2,
+    "Xi": 3,
+    "Omicron": 4,
+    "Pi": 5,
+    "Rho": 6,
+    "Sigma": 7,
+    "Tau": 8,
+    "Upsilon": 9,
+    "Phi": 10,
+    "Chi": 11,
+    "Psi": 12,
+    "Alpha Alpha": 13,
+    "Alpha Beta": 14,
+    "Alpha Gamma": 15,
+    "Alpha Delta": 16,
+    "Alpha Epsilon": 17,
+    "Alpha Zeta": 18
+  },
+  "summary": {
+    "total_members": 100,
+    "total_edges": 165,
+    "big_little_edges": 74,
+    "classmate_edges": 91,
+    "classes": 18
+  }
+}

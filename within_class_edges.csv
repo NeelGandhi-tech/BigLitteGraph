@@ -1,0 +1,92 @@
+source,target,class,weight,type
+Anmol Bal,Arnav Jain,Rho,6,classmate
+Arnav Jain,Suryansh Kumar,Rho,6,classmate
+Suryansh Kumar,Zaid Jiwani,Rho,6,classmate
+Aakash Ramachandran,Lucas Narine,Sigma,7,classmate
+Lucas Narine,Rithik Jain,Sigma,7,classmate
+Abrar Karim,Advait Deoskar,Tau,8,classmate
+Advait Deoskar,Liam Patel,Tau,8,classmate
+Liam Patel,Ritvik Gadhok,Tau,8,classmate
+Ritvik Gadhok,Ritvik Kandarkar,Tau,8,classmate
+Ritvik Kandarkar,Shlok Gore,Tau,8,classmate
+Adithya Rao,Aswinkarthik Rameshbabu,Upsilon,9,classmate
+Aswinkarthik Rameshbabu,Ayush Misra,Upsilon,9,classmate
+Ayush Misra,Ekansh Vashishth,Upsilon,9,classmate
+Ekansh Vashishth,Ekansh Vashisth,Upsilon,9,classmate
+Ekansh Vashisth,Justin Flesher,Upsilon,9,classmate
+Justin Flesher,Kevin Cheng,Upsilon,9,classmate
+Kevin Cheng,Sehoon Byun,Upsilon,9,classmate
+Sehoon Byun,Tej Sathe,Upsilon,9,classmate
+Aditya Satyadeep,Anirudh Natarajan,Phi,10,classmate
+Anirudh Natarajan,Anish Chikkaswamy,Phi,10,classmate
+Anish Chikkaswamy,Chiraphat Techasiri,Phi,10,classmate
+Chiraphat Techasiri,Pranav Iyer,Phi,10,classmate
+Pranav Iyer,Pranav Ramachandra,Phi,10,classmate
+Pranav Ramachandra,Pranav Sheokand,Phi,10,classmate
+Pranav Sheokand,Praneeth Kanna,Phi,10,classmate
+Praneeth Kanna,Rish Bellakka,Phi,10,classmate
+Rish Bellakka,Vaarun Ramanathan,Phi,10,classmate
+Aamir Hudda,Anitej Bharadwaj,Chi,11,classmate
+Anitej Bharadwaj,Anthony Adly,Chi,11,classmate
+Anthony Adly,Arjun Venkatesh,Chi,11,classmate
+Arjun Venkatesh,Joshua Kurian,Chi,11,classmate
+Joshua Kurian,Krish Patel,Chi,11,classmate
+Krish Patel,Nathan Lee,Chi,11,classmate
+Nathan Lee,Rahul Ravishankar,Chi,11,classmate
+Rahul Ravishankar,Surya Rajan,Chi,11,classmate
+Dhanush Sunchu,Luke Matsui,Psi,12,classmate
+Luke Matsui,Neel Kandlikar,Psi,12,classmate
+Neel Kandlikar,Tarkh Lingamallu,Psi,12,classmate
+Charith Myneni,Karan Bhakta,Alpha Alpha,13,classmate
+Karan Bhakta,Om Awate,Alpha Alpha,13,classmate
+Om Awate,Rohun Malhotra,Alpha Alpha,13,classmate
+Rohun Malhotra,Venkat Kandukuri,Alpha Alpha,13,classmate
+Aadi Agrawal,Abhinav Mukkamala,Alpha Beta,14,classmate
+Abhinav Mukkamala,Ibrahim Saiger,Alpha Beta,14,classmate
+Ibrahim Saiger,Neelesh Bokkisam,Alpha Beta,14,classmate
+Neelesh Bokkisam,Neil Kamath,Alpha Beta,14,classmate
+Neil Kamath,Sreekar Nagulapalli,Alpha Beta,14,classmate
+Aayush Shah,Kanishk Vankayala,Alpha Gamma,15,classmate
+Kanishk Vankayala,Kush Goswami,Alpha Gamma,15,classmate
+Kush Goswami,Sashank Gadisetti,Alpha Gamma,15,classmate
+Adith Mohanty,Bartev Stepanian,Alpha Delta,16,classmate
+Bartev Stepanian,Joshua Thomas,Alpha Delta,16,classmate
+Joshua Thomas,Kabir Dua,Alpha Delta,16,classmate
+Kabir Dua,Praneel Pantula,Alpha Delta,16,classmate
+Praneel Pantula,Samhith Padala,Alpha Delta,16,classmate
+Samhith Padala,Sebastian Reddy,Alpha Delta,16,classmate
+Sebastian Reddy,Sid Kasi,Alpha Delta,16,classmate
+Sid Kasi,Zain Passi,Alpha Delta,16,classmate
+Aaron Ratnavel,Abhinav Bellapu,Alpha Epsilon,17,classmate
+Abhinav Bellapu,Arjun Parmar,Alpha Epsilon,17,classmate
+Arjun Parmar,Arya Patel,Alpha Epsilon,17,classmate
+Arya Patel,Gowri Biju,Alpha Epsilon,17,classmate
+Gowri Biju,Shivm Patel,Alpha Epsilon,17,classmate
+Shivm Patel,Suvan Kapoor,Alpha Epsilon,17,classmate
+Suvan Kapoor,Tanay Doppalapudi,Alpha Epsilon,17,classmate
+Tanay Doppalapudi,Vikram Ravi,Alpha Epsilon,17,classmate
+Vikram Ravi,Yadukrishna Raghu,Alpha Epsilon,17,classmate
+Aman Thakur,Ram Palanati,Omicron,4,classmate
+Ram Palanati,Rohan Nath,Omicron,4,classmate
+Rohan Nath,Sumesh Rawal,Omicron,4,classmate
+Ishan Gurnani,Param Shah,Pi,5,classmate
+Param Shah,Parth Patel,Pi,5,classmate
+Parth Patel,Rajan Parikh,Pi,5,classmate
+Rajan Parikh,Sharukh Shaikh,Pi,5,classmate
+Sharukh Shaikh,Shivansh Kumar,Pi,5,classmate
+Shivansh Kumar,Vidur Maheshwari,Pi,5,classmate
+Kshitij Shah,Neil Bhagat,Nu,2,classmate
+Neil Bhagat,Yash Dave,Nu,2,classmate
+Srikar Chikkala,Yash Agarwal,Xi,3,classmate
+Atul Kamath,Ayan Kawlekar,Alpha Zeta,18,classmate
+Ayan Kawlekar,Dhruv Vallurupalli,Alpha Zeta,18,classmate
+Dhruv Vallurupalli,Ethan Lau,Alpha Zeta,18,classmate
+Ethan Lau,Laiq Sorrell,Alpha Zeta,18,classmate
+Laiq Sorrell,Mohith Ram Narendra Babu,Alpha Zeta,18,classmate
+Mohith Ram Narendra Babu,Neel Gandhi,Alpha Zeta,18,classmate
+Neel Gandhi,Nidhish Tekkam,Alpha Zeta,18,classmate
+Nidhish Tekkam,Reyansh Pallikonda,Alpha Zeta,18,classmate
+Reyansh Pallikonda,Rohin Prashanth,Alpha Zeta,18,classmate
+Rohin Prashanth,Srithan Meeniga,Alpha Zeta,18,classmate
+Srithan Meeniga,Varun Rao,Alpha Zeta,18,classmate
+Varun Rao,Zahm Siyed,Alpha Zeta,18,classmate
