@@ -182,8 +182,7 @@ def create_plotly_graph(G, pos, highlight_path=None, source_node=None, target_no
     fig = go.Figure(data=[edge_trace, highlight_edge_trace, node_trace])
     
     fig.update_layout(
-        title="Fraternity Family Tree Graph",
-        titlefont_size=20,
+        title=dict(text="Fraternity Family Tree Graph", font=dict(size=20)),
         showlegend=True,
         hovermode='closest',
         margin=dict(b=20, l=5, r=5, t=40),
@@ -287,7 +286,7 @@ def main():
             
             # Create and display graph
             fig = create_plotly_graph(G, pos, path, source_member, target_member)
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, use_container_width=True)  # plotly_chart still uses use_container_width
             
             # Display path summary below graph
             if path and len(path) > 1:
@@ -324,11 +323,11 @@ def main():
                 class_counts[data_node.get('node_class', 'Unknown')] += 1
             
             class_df = pd.DataFrame([
-                {'Class': k, 'Members': v, 'Weight': data['classWeights'].get(k, 'N/A')}
+                {'Class': k, 'Members': v, 'Weight': data['classWeights'].get(k, None)}
                 for k, v in sorted(class_counts.items(), key=lambda x: data['classWeights'].get(x[0], 999))
             ])
             
-            st.dataframe(class_df, use_container_width=True)
+            st.dataframe(class_df, width='stretch')
         
         with tab3:
             st.header("All Members")
@@ -342,13 +341,13 @@ def main():
                 members_data.append({
                     'Name': node,
                     'Class': node_class,
-                    'Weight': data['classWeights'].get(node_class, 'N/A'),
+                    'Weight': data['classWeights'].get(node_class, None),
                     'Bigs': in_degree,
                     'Littles': out_degree
                 })
             
             members_df = pd.DataFrame(members_data)
-            st.dataframe(members_df, use_container_width=True, height=600)
+            st.dataframe(members_df, width='stretch', height=600)
             
     except FileNotFoundError:
         st.error("❌ Error: 'complete_graph_data.json' file not found!")
@@ -359,4 +358,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

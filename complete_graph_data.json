@@ -399,6 +399,38 @@
     {
       "name": "Zain Passi",
       "class": "Alpha Delta"
+    },
+    {
+      "name": "Krish Patel",
+      "class": "Chi"
+    },
+    {
+      "name": "Kevin Cheng",
+      "class": "Upsilon"
+    },
+    {
+      "name": "Tanay Doppalapudi",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Samhith Padala",
+      "class": "Alpha Delta"
+    },
+    {
+      "name": "Yadukrishna Raghu",
+      "class": "Alpha Epsilon"
+    },
+    {
+      "name": "Sid Kasi",
+      "class": "Alpha Delta"
+    },
+    {
+      "name": "Nathan Lee",
+      "class": "Chi"
+    },
+    {
+      "name": "Sebastian Reddy",
+      "class": "Alpha Delta"
     }
   ],
   "edges": [
@@ -893,7 +925,7 @@
     {
       "source": "Kanish",
       "target": "Ayan Kawlekar",
-      "weight": NaN,
+      "weight": 1.0,
       "type": "big-little",
       "source_class": "Unknown",
       "target_class": "Alpha Zeta"
@@ -1092,14 +1124,14 @@
     },
     {
       "source": "Ayush Misra",
-      "target": "Ekansh Vashishth",
+      "target": "Ekansh Vashisth",
       "weight": 9,
       "type": "classmate",
       "source_class": "Upsilon",
       "target_class": "Upsilon"
     },
     {
-      "source": "Ekansh Vashishth",
+      "source": "Ekansh Vashisth",
       "target": "Ekansh Vashisth",
       "weight": 9,
       "type": "classmate",
@@ -1744,7 +1776,7 @@
     "Alpha Zeta": 18
   },
   "summary": {
-    "total_members": 100,
+    "total_members": 108,
     "total_edges": 165,
     "big_little_edges": 74,
     "classmate_edges": 91,

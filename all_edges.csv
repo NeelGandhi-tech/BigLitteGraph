@@ -1,0 +1,166 @@
+source,target,weight,type,source_class,target_class
+Sumesh Rawal,Ritvik Kandarkar,4.0,big-little,Omicron,Tau
+Ritvik Kandarkar,Om Awate,8.0,big-little,Tau,Alpha Alpha
+Om Awate,Kabir Dua,13.0,big-little,Alpha Alpha,Alpha Delta
+Rajan Parikh,Rithik Jain,5.0,big-little,Pi,Sigma
+Rithik Jain,Anthony Adly,7.0,big-little,Sigma,Chi
+Anthony Adly,Arya Patel,11.0,big-little,Chi,Alpha Epsilon
+Neil Bhagat,Rohan Nath,2.0,big-little,Nu,Omicron
+Rohan Nath,Anmol Bal,4.0,big-little,Omicron,Rho
+Anmol Bal,Anish Chikkaswamy,6.0,big-little,Rho,Phi
+Anish Chikkaswamy,Zain Passi,10.0,big-little,Phi,Alpha Delta
+Pranav Iyer,Neel Kandlikar,10.0,big-little,Phi,Psi
+Neel Kandlikar,Praneel Pantula,12.0,big-little,Psi,Alpha Delta
+Srikar Chikkala,Shivansh Kumar,3.0,big-little,Xi,Pi
+Shivansh Kumar,Ritvik Gadhok,5.0,big-little,Pi,Tau
+Ritvik Gadhok,Rohun Malhotra,8.0,big-little,Tau,Alpha Alpha
+Rohun Malhotra,Aaron Ratnavel,13.0,big-little,Alpha Alpha,Alpha Epsilon
+Ram Palanati,Lucas Narine,4.0,big-little,Omicron,Sigma
+Lucas Narine,Shlok Gore,7.0,big-little,Sigma,Tau
+Shlok Gore,Vaarun Ramanathan,8.0,big-little,Tau,Phi
+Vaarun Ramanathan,Sreekar Nagulapalli,10.0,big-little,Phi,Alpha Beta
+Suryansh Kumar,Anirudh Natarajan,6.0,big-little,Rho,Phi
+Anirudh Natarajan,Neil Kamath,10.0,big-little,Phi,Alpha Beta
+Yash Agarwal,Zaid Jiwani,3.0,big-little,Xi,Rho
+Zaid Jiwani,Ekansh Vashisth,6.0,big-little,Rho,Upsilon
+Ekansh Vashisth,Chiraphat Techasiri,9.0,big-little,Upsilon,Phi
+Chiraphat Techasiri,Luke Matsui,10.0,big-little,Phi,Psi
+Joshua Kurian,Joshua Thomas,11.0,big-little,Chi,Alpha Delta
+Pranav Sheokand,Aadi Agrawal,10.0,big-little,Phi,Alpha Beta
+Anitej Bharadwaj,Aayush Shah,11.0,big-little,Chi,Alpha Gamma
+Parth Patel,Adithya Rao,5.0,big-little,Pi,Upsilon
+Adithya Rao,Dhanush Sunchu,9.0,big-little,Upsilon,Psi
+Dhanush Sunchu,Arjun Parmar,12.0,big-little,Psi,Alpha Epsilon
+Yash Dave,Param Shah,2.0,big-little,Nu,Pi
+Param Shah,Advait Deoskar,5.0,big-little,Pi,Tau
+Advait Deoskar,Aditya Satyadeep,8.0,big-little,Tau,Phi
+Aditya Satyadeep,Rahul Ravishankar,10.0,big-little,Phi,Chi
+Rahul Ravishankar,Abhinav Bellapu,11.0,big-little,Chi,Alpha Epsilon
+Praneeth Kanna,Surya Rajan,10.0,big-little,Phi,Chi
+Surya Rajan,Neelesh Bokkisam,11.0,big-little,Chi,Alpha Beta
+Aswinkarthik Rameshbabu,Arjun Venkatesh,9.0,big-little,Upsilon,Chi
+Arjun Venkatesh,Abhinav Mukkamala,11.0,big-little,Chi,Alpha Beta
+Arnav Jain,Aakash Ramachandran,6.0,big-little,Rho,Sigma
+Aakash Ramachandran,Ayush Misra,7.0,big-little,Sigma,Upsilon
+Ayush Misra,Kush Goswami,9.0,big-little,Upsilon,Alpha Gamma
+Liam Patel,Sehoon Byun,8.0,big-little,Tau,Upsilon
+Sehoon Byun,Ibrahim Saiger,9.0,big-little,Upsilon,Alpha Beta
+Ibrahim Saiger,Bartev Stepanian,14.0,big-little,Alpha Beta,Alpha Delta
+Rish Bellakka,Venkat Kandukuri,10.0,big-little,Phi,Alpha Alpha
+Aman Thakur,Pranav Ramachandra,4.0,big-little,Omicron,Phi
+Pranav Ramachandra,Karan Bhakta,10.0,big-little,Phi,Alpha Alpha
+Karan Bhakta,Suvan Kapoor,13.0,big-little,Alpha Alpha,Alpha Epsilon
+Sashank Gadisetti,Adith Mohanty,15.0,big-little,Alpha Gamma,Alpha Delta
+Vidur Maheshwari,Abrar Karim,5.0,big-little,Pi,Tau
+Abrar Karim,Charith Myneni,8.0,big-little,Tau,Alpha Alpha
+Charith Myneni,Gowri Biju,13.0,big-little,Alpha Alpha,Alpha Epsilon
+Kshitij Shah,Sharukh Shaikh,2.0,big-little,Nu,Pi
+Sharukh Shaikh,Justin Flesher,5.0,big-little,Pi,Upsilon
+Justin Flesher,Tarkh Lingamallu,9.0,big-little,Upsilon,Psi
+Tarkh Lingamallu,Vikram Ravi,12.0,big-little,Psi,Alpha Epsilon
+Ishan Gurnani,Tej Sathe,5.0,big-little,Pi,Upsilon
+Tej Sathe,Aamir Hudda,9.0,big-little,Upsilon,Chi
+Kanish,Ayan Kawlekar,1.0,big-little,Unknown,Alpha Zeta
+Aayush Shah,Srithan Meeniga,15.0,big-little,Alpha Gamma,Alpha Zeta
+Dhanush Sunchu,Zahm Siyed,12.0,big-little,Psi,Alpha Zeta
+Gowri Biju,Rohin Prashanth,17.0,big-little,Alpha Epsilon,Alpha Zeta
+Neelesh Bokkisam,Nidhish Tekkam,14.0,big-little,Alpha Beta,Alpha Zeta
+Aaron Ratnavel,Dhruv Vallurupalli,17.0,big-little,Alpha Epsilon,Alpha Zeta
+Om Awate,Atul Kamath,13.0,big-little,Alpha Alpha,Alpha Zeta
+Aadi Agrawal,Varun Rao,14.0,big-little,Alpha Beta,Alpha Zeta
+Kanishk Vankayala,Laiq Sorrell,15.0,big-little,Alpha Gamma,Alpha Zeta
+Karan Bhakta,Ethan Lau,13.0,big-little,Alpha Alpha,Alpha Zeta
+Aadi Agrawal,Mohith Ram Narendra Babu,14.0,big-little,Alpha Beta,Alpha Zeta
+Sreekar Nagulapalli,Neel Gandhi,14.0,big-little,Alpha Beta,Alpha Zeta
+Shivm Patel,Reyansh Pallikonda,17.0,big-little,Alpha Epsilon,Alpha Zeta
+Anmol Bal,Arnav Jain,6.0,classmate,Rho,Rho
+Arnav Jain,Suryansh Kumar,6.0,classmate,Rho,Rho
+Suryansh Kumar,Zaid Jiwani,6.0,classmate,Rho,Rho
+Aakash Ramachandran,Lucas Narine,7.0,classmate,Sigma,Sigma
+Lucas Narine,Rithik Jain,7.0,classmate,Sigma,Sigma
+Abrar Karim,Advait Deoskar,8.0,classmate,Tau,Tau
+Advait Deoskar,Liam Patel,8.0,classmate,Tau,Tau
+Liam Patel,Ritvik Gadhok,8.0,classmate,Tau,Tau
+Ritvik Gadhok,Ritvik Kandarkar,8.0,classmate,Tau,Tau
+Ritvik Kandarkar,Shlok Gore,8.0,classmate,Tau,Tau
+Adithya Rao,Aswinkarthik Rameshbabu,9.0,classmate,Upsilon,Upsilon
+Aswinkarthik Rameshbabu,Ayush Misra,9.0,classmate,Upsilon,Upsilon
+Ayush Misra,Ekansh Vashishth,9.0,classmate,Upsilon,Upsilon
+Ekansh Vashishth,Ekansh Vashisth,9.0,classmate,Upsilon,Upsilon
+Ekansh Vashisth,Justin Flesher,9.0,classmate,Upsilon,Upsilon
+Justin Flesher,Kevin Cheng,9.0,classmate,Upsilon,Upsilon
+Kevin Cheng,Sehoon Byun,9.0,classmate,Upsilon,Upsilon
+Sehoon Byun,Tej Sathe,9.0,classmate,Upsilon,Upsilon
+Aditya Satyadeep,Anirudh Natarajan,10.0,classmate,Phi,Phi
+Anirudh Natarajan,Anish Chikkaswamy,10.0,classmate,Phi,Phi
+Anish Chikkaswamy,Chiraphat Techasiri,10.0,classmate,Phi,Phi
+Chiraphat Techasiri,Pranav Iyer,10.0,classmate,Phi,Phi
+Pranav Iyer,Pranav Ramachandra,10.0,classmate,Phi,Phi
+Pranav Ramachandra,Pranav Sheokand,10.0,classmate,Phi,Phi
+Pranav Sheokand,Praneeth Kanna,10.0,classmate,Phi,Phi
+Praneeth Kanna,Rish Bellakka,10.0,classmate,Phi,Phi
+Rish Bellakka,Vaarun Ramanathan,10.0,classmate,Phi,Phi
+Aamir Hudda,Anitej Bharadwaj,11.0,classmate,Chi,Chi
+Anitej Bharadwaj,Anthony Adly,11.0,classmate,Chi,Chi
+Anthony Adly,Arjun Venkatesh,11.0,classmate,Chi,Chi
+Arjun Venkatesh,Joshua Kurian,11.0,classmate,Chi,Chi
+Joshua Kurian,Krish Patel,11.0,classmate,Chi,Chi
+Krish Patel,Nathan Lee,11.0,classmate,Chi,Chi
+Nathan Lee,Rahul Ravishankar,11.0,classmate,Chi,Chi
+Rahul Ravishankar,Surya Rajan,11.0,classmate,Chi,Chi
+Dhanush Sunchu,Luke Matsui,12.0,classmate,Psi,Psi
+Luke Matsui,Neel Kandlikar,12.0,classmate,Psi,Psi
+Neel Kandlikar,Tarkh Lingamallu,12.0,classmate,Psi,Psi
+Charith Myneni,Karan Bhakta,13.0,classmate,Alpha Alpha,Alpha Alpha
+Karan Bhakta,Om Awate,13.0,classmate,Alpha Alpha,Alpha Alpha
+Om Awate,Rohun Malhotra,13.0,classmate,Alpha Alpha,Alpha Alpha
+Rohun Malhotra,Venkat Kandukuri,13.0,classmate,Alpha Alpha,Alpha Alpha
+Aadi Agrawal,Abhinav Mukkamala,14.0,classmate,Alpha Beta,Alpha Beta
+Abhinav Mukkamala,Ibrahim Saiger,14.0,classmate,Alpha Beta,Alpha Beta
+Ibrahim Saiger,Neelesh Bokkisam,14.0,classmate,Alpha Beta,Alpha Beta
+Neelesh Bokkisam,Neil Kamath,14.0,classmate,Alpha Beta,Alpha Beta
+Neil Kamath,Sreekar Nagulapalli,14.0,classmate,Alpha Beta,Alpha Beta
+Aayush Shah,Kanishk Vankayala,15.0,classmate,Alpha Gamma,Alpha Gamma
+Kanishk Vankayala,Kush Goswami,15.0,classmate,Alpha Gamma,Alpha Gamma
+Kush Goswami,Sashank Gadisetti,15.0,classmate,Alpha Gamma,Alpha Gamma
+Adith Mohanty,Bartev Stepanian,16.0,classmate,Alpha Delta,Alpha Delta
+Bartev Stepanian,Joshua Thomas,16.0,classmate,Alpha Delta,Alpha Delta
+Joshua Thomas,Kabir Dua,16.0,classmate,Alpha Delta,Alpha Delta
+Kabir Dua,Praneel Pantula,16.0,classmate,Alpha Delta,Alpha Delta
+Praneel Pantula,Samhith Padala,16.0,classmate,Alpha Delta,Alpha Delta
+Samhith Padala,Sebastian Reddy,16.0,classmate,Alpha Delta,Alpha Delta
+Sebastian Reddy,Sid Kasi,16.0,classmate,Alpha Delta,Alpha Delta
+Sid Kasi,Zain Passi,16.0,classmate,Alpha Delta,Alpha Delta
+Aaron Ratnavel,Abhinav Bellapu,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Abhinav Bellapu,Arjun Parmar,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Arjun Parmar,Arya Patel,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Arya Patel,Gowri Biju,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Gowri Biju,Shivm Patel,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Shivm Patel,Suvan Kapoor,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Suvan Kapoor,Tanay Doppalapudi,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Tanay Doppalapudi,Vikram Ravi,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Vikram Ravi,Yadukrishna Raghu,17.0,classmate,Alpha Epsilon,Alpha Epsilon
+Aman Thakur,Ram Palanati,4.0,classmate,Omicron,Omicron
+Ram Palanati,Rohan Nath,4.0,classmate,Omicron,Omicron
+Rohan Nath,Sumesh Rawal,4.0,classmate,Omicron,Omicron
+Ishan Gurnani,Param Shah,5.0,classmate,Pi,Pi
+Param Shah,Parth Patel,5.0,classmate,Pi,Pi
+Parth Patel,Rajan Parikh,5.0,classmate,Pi,Pi
+Rajan Parikh,Sharukh Shaikh,5.0,classmate,Pi,Pi
+Sharukh Shaikh,Shivansh Kumar,5.0,classmate,Pi,Pi
+Shivansh Kumar,Vidur Maheshwari,5.0,classmate,Pi,Pi
+Kshitij Shah,Neil Bhagat,2.0,classmate,Nu,Nu
+Neil Bhagat,Yash Dave,2.0,classmate,Nu,Nu
+Srikar Chikkala,Yash Agarwal,3.0,classmate,Xi,Xi
+Atul Kamath,Ayan Kawlekar,18.0,classmate,Alpha Zeta,Alpha Zeta
+Ayan Kawlekar,Dhruv Vallurupalli,18.0,classmate,Alpha Zeta,Alpha Zeta
+Dhruv Vallurupalli,Ethan Lau,18.0,classmate,Alpha Zeta,Alpha Zeta
+Ethan Lau,Laiq Sorrell,18.0,classmate,Alpha Zeta,Alpha Zeta
+Laiq Sorrell,Mohith Ram Narendra Babu,18.0,classmate,Alpha Zeta,Alpha Zeta
+Mohith Ram Narendra Babu,Neel Gandhi,18.0,classmate,Alpha Zeta,Alpha Zeta
+Neel Gandhi,Nidhish Tekkam,18.0,classmate,Alpha Zeta,Alpha Zeta
+Nidhish Tekkam,Reyansh Pallikonda,18.0,classmate,Alpha Zeta,Alpha Zeta
+Reyansh Pallikonda,Rohin Prashanth,18.0,classmate,Alpha Zeta,Alpha Zeta
+Rohin Prashanth,Srithan Meeniga,18.0,classmate,Alpha Zeta,Alpha Zeta
+Srithan Meeniga,Varun Rao,18.0,classmate,Alpha Zeta,Alpha Zeta
+Varun Rao,Zahm Siyed,18.0,classmate,Alpha Zeta,Alpha Zeta
